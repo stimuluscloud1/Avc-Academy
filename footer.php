@@ -508,6 +508,7 @@
     <script type='text/javascript'
         src='js/skrollr.min.js?ver=6.0.3'>
     </script>
+    <script type='text/javascript' src='http://iguru.wgl-demo.net/wp-content/themes/iguru/js/particles.min.js?ver=5.4.2'></script>
     <script id="wgl_custom_footer_js"></script>
 </body>
 
